@@ -1,0 +1,4 @@
+Two conclusions or comparisons from the calculations:
+One conclusion I have been able to make from the data is that there does not seem to be any correlation between budget and the number of students that do well in school. In fact, the data may even show that schools with less funding do has students that have a higher overall passing rate.
+
+My second conclusion is that schools that spend less money on their students tend to have higher average math scores and reading scores. This translates to having just better overall passing rates in general.
